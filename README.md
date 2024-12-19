@@ -46,8 +46,8 @@ cd swensiAI
 ## 📸 Скриншоты
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/swensi17/swensiAI/master/assets/screenshot1.png" alt="Screenshot 1" width="400"/>
-  <img src="https://raw.githubusercontent.com/swensi17/swensiAI/master/assets/screenshot2.png" alt="Screenshot 2" width="400"/>
+  <img src="https://raw.githubusercontent.com/swensi17/swensiAI/master/assets/screenshot1.jpg" alt="Главный экран Swensi AI" width="800"/>
+  <img src="https://raw.githubusercontent.com/swensi17/swensiAI/master/assets/screenshot2.jpg" alt="Выбор модели Gemini" width="400"/>
 </div>
 
 ## 🤝 Вклад в проект
@@ -67,6 +67,7 @@ cd swensiAI
 ## 📞 Контакты
 
 - GitHub: [@swensi17](https://github.com/swensi17)
+- Telegram: [@swensi17](https://t.me/swensi17)
 - Website: [swensi17.github.io/swensiAI](https://swensi17.github.io/swensiAI/)
 
 ---
